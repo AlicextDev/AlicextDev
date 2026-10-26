@@ -1,99 +1,155 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=33,17,25,33&height=220&section=header&text=ALICE%20XAVIER&fontSize=50&fontColor=F7F2F0&fontFamily=Space+Grotesk&subData=Desenvolvimento%20de%20Software%20•%20Dados%20•%20Automação&subFontSize=18&subColor=C58FA1&animation=fadeIn" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alice-xavier-44765320a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23713B50.svg?style=for-the-badge&logo=LinkedIn&logoColor=F7F2F0" alt="LinkedIn" />
+  <!-- Banner Principal -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A2E43&height=260&section=header&text=ALICE%20XAVIER&fontSize=68&fontColor=ffffff&animation=twinkling&desc=Desenvolvimento%20de%20Software%20%7C%20Dados%20%7C%20Automa%C3%A7%C3%A3o&descSize=20&descAlignY=68" width="100%" alt="Header Banner" />
+
+  <!-- Typing Animation -->
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=7A2E43&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Estagiária+de+Desenvolvimento+de+Software;Transformando+dados+em+soluções;Desenvolvendo+sistemas+e+automações;Estudante+de+Ciência+da+Computação" alt="Typing Animation" />
   </a>
-  <a href="https://github.com/AlicextDev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2321171D.svg?style=for-the-badge&logo=GitHub&logoColor=F7F2F0" alt="GitHub" />
+
+  <br/><br/>
+
+  <!-- Redes Sociais / Badges -->
+  <a href="https://www.linkedin.com/in/alice-xavier-44765320a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7A2E43?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:alice14072005@gmail.com">
-    <img src="https://img.shields.io/badge/E-mail-%23C58FA1.svg?style=for-the-badge&logo=Gmail&logoColor=21171D" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-21171D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-</p>
+  <a href="https://github.com/AlicextDev">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+
+</div>
+
+<br/>
 
 ---
 
-### 💻 <samp>Sobre Mim</samp>
+## ─── 🎓 Sobre Mim
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicextDev&layout=compact&theme=vue&hide_border=true&bg_color=21171D&title_color=C58FA1&text_color=F7F2F0" alt="Top Languages" width="350px" />
-
-- 👤 **Nome:** Alice Xavier
-- 💻 **Área:** Desenvolvimento de Software | Dados | Automação
-- 💼 **Cargo Atual:** Estagiária de Desenvolvimento de Software na **CDS Solutions**
-- 🎓 **Graduação:** Ciência da Computação — Universidade Católica de Brasília (2024 — 2027)
-- 🚀 **Foco:** Transformar problemas complexos em soluções eficientes através de tecnologia, engenharia de software e análise de dados.
+- 🎓 Graduanda em **Ciência da Computação** na Universidade Católica de Brasília (UCB).
+- 💼 **Estagiária de Desenvolvimento de Software** na CDS Solutions.
+- 🛠️ Experiência em integração de **APIs REST**, desenvolvimento web, **análise de dados (Python, Pandas, SQL)** e **automação de processos (RPA & ServiceNow)**.
+- 🚀 Foco contínuo em criar soluções funcionais, otimizadas e aplicadas a problemas reais.
 
 ---
 
-### 🛠️ <samp>Stack Tecnológica</samp>
+## ─── 🛠️ Tecnologias & Ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,nodejs,html,css,mysql,git,docker,postman,vscode,figma,linux&theme=dark" alt="Tecnologias" />
-</p>
+<div align="left">
+
+### **Linguagens & Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Dados & IA**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### **Automação & Ferramentas**
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-### 🚀 <samp>Projetos em Destaque</samp>
+## ─── 🚀 Projetos em Destaque
 
-<table align="center">
+<table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/AlicextDev/Fox-Study"><b>🦊 Estudo da Raposa</b></a><br>
-      Plataforma de estudos Full Stack com métodos Pomodoro, sistema de Flashcards e gestão de materiais (Node.js, SQL, JS).
+    <td width="50%" valign="top">
+      <h3>🦊 <a href="https://github.com/AlicextDev/Estudo-da-raposa">Fox Study Platform</a></h3>
+      <p>Plataforma Full Stack completa para gestão de estudos com método Pomodoro, Flashcards e gerenciamento de matérias.</p>
+      <p><b>Techs:</b> JavaScript, Node.js, SQL, HTML, CSS</p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/AlicextDev/Python-Power-Up-Automa-o-de-Tarefas"><b>⚡ Automação de Processos</b></a><br>
-      Automação de rotinas corporativas e cadastro em massa utilizando Python, PyAutoGUI e Pandas.
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/AlicextDev/Python-Power-Up-Automa-o-de-Tarefas">Automação de Tarefas</a></h3>
+      <p>Scripts em Python para automação de cadastro massivo de produtos e rotinas operacionais com PyAutoGUI e Pandas.</p>
+      <p><b>Techs:</b> Python, PyAutoGUI, Pandas</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/AlicextDev/Automa-o-An-lise-de-Dados"><b>📊 Análise de Dados & RPA</b></a><br>
-      Scripts inteligentes para processamento de dados e otimização de fluxos operacionais.
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/AlicextDev/Python-Insights-Analisando-Dados-com-Python">Análise de Churn Rate</a></h3>
+      <p>Análise diagnóstica e visualização de dados para identificar causas e reduzir a taxa de cancelamento de clientes.</p>
+      <p><b>Techs:</b> Python, Pandas, Jupyter, Data Viz</p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/AlicextDev/Python-IA-Intelig-ncia-Artificial-e-Previs-es"><b>🤖 IA & Machine Learning</b></a><br>
-      Modelos preditivos aplicados à classificação e estimativa (RandomForest, KNN).
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/AlicextDev/Python-IA-Intelig-ncia-Artificial-e-Previs-es">Previsão de Credit Scoring</a></h3>
+      <p>Modelo preditivo de Machine Learning comparando algoritmos como RandomForest e KNN para classificação de crédito.</p>
+      <p><b>Techs:</b> Python, Scikit-Learn, Machine Learning</p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/AlicextDev/Python-Insights-Analisando-Dados-com-Python"><b>📈 Análise de Churn Rate (Python & Pandas)</b></a><br>
-      Diagnóstico de taxa de rotatividade de clientes e suporte a estratégias de retenção baseadas em dados.
+    <td colspan="2" valign="top">
+      <h3>📈 <a href="https://github.com/AlicextDev/Automa-o-An-lise-de-Dados">Automação & Análise de Dados</a></h3>
+      <p>Scripts inteligentes para processamento de dados e otimização de fluxos operacionais aplicados ao dia a dia corporativo.</p>
+      <p><b>Techs:</b> Python, Pandas, Automação</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 <samp>Estatísticas do GitHub</samp>
+## ─── 🏆 Conquistas no GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlicextDev&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true&bg_color=21171D&title_color=C58FA1&text_color=F7F2F0" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlicextDev&theme=vue&hide_border=true&background=21171D&ring=C58FA1&fire=C58FA1&currStreakLabel=C58FA1" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/api?username=AlicextDev&bg_color=21171D&color=C58FA1&line=C58FA1&point=F7F2F0&area=true&area_color=713B50&hide_border=true" alt="Gráfico de Atividades" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=AlicextDev&theme=dracula&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</div>
 
 ---
 
-### 🐍 <samp>Mapa de Contribuição da Cobra</samp>
+## ─── 📊 Estatísticas & Atividade
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlicextDev/AlicextDev/output/github-contribution-grid-snake-dark.svg" alt="Animação da Cobra" width="100%" />
-</p>
+<div align="center">
+
+  <a href="https://github.com/AlicextDev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlicextDev&show_icons=true&theme=synthwave&title_color=7A2E43&icon_color=7A2E43&text_color=ffffff&bg_color=21171D&hide_border=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicextDev&layout=compact&theme=synthwave&title_color=7A2E43&icon_color=7A2E43&text_color=ffffff&bg_color=21171D&hide_border=true" alt="Top Languages" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/AlicextDev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlicextDev&theme=dark&background=21171D&stroke=7A2E43&fire=7A2E43&ring=7A2E43&sidenums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  </a>
+
+  <br/><br/>
+
+  <h3>📈 Gráfico de Atividades</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlicextDev&bg_color=21171D&color=7A2E43&line=7A2E43&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Um commit por vez ✱ Desenvolvimento ✱ Dados ✱ Automação"</i><br>
-  <b>Desenvolvido por Alice Xavier • 2026</b>
-</p>
+## ─── 🐍 Snake Contribution Map
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlicextDev/AlicextDev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlicextDev/AlicextDev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlicextDev/AlicextDev/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+  <br/>
+  <p><i>"Um commit por vez ✱ Desenvolvimento ✱ Dados ✱ Automação"</i></p>
+  <p>Desenvolvido com 💜 por <b>Alice Xavier</b> • 2026</p>
+
+</div>
