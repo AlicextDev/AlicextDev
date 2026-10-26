@@ -136,9 +136,6 @@
 
   <br/><br/>
 
-  <h3>📈 Gráfico de Atividades</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlicextDev&bg_color=21171D&color=7A2E43&line=7A2E43&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
 </div>
 
 ---
