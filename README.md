@@ -1,23 +1,21 @@
 <div align="center">
 
   <!-- Banner Principal -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A2E43&height=260&section=header&text=ALICE%20XAVIER&fontSize=68&fontColor=ffffff&animation=twinkling&desc=Desenvolvimento%20de%20Software%20%7C%20Dados%20%7C%20Automa%C3%A7%C3%A3o&descSize=20&descAlignY=68" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A2E43&height=240&section=header&text=ALICE%20XAVIER&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Desenvolvimento%20de%20Software%20%7C%20Dados%20%7C%20Automa%C3%A7%C3%A3o&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
 
-  <!-- Typing Animation -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=7A2E43&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Estagiária+de+Desenvolvimento+de+Software;Transformando+dados+em+soluções;Desenvolvendo+sistemas+e+automações;Estudante+de+Ciência+da+Computação" alt="Typing Animation" />
-  </a>
+  <!-- Typing Animation Corrigida -->
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=C98FA3&center=true&vCenter=true&width=550&height=40&lines=Estagiária+de+Desenvolvimento+de+Software;Transformando+dados+em+soluções;Desenvolvendo+sistemas+e+automações;Estudante+de+Ciência+da+Computação" alt="Typing Animation" />
 
   <br/><br/>
 
-  <!-- Redes Sociais / Badges -->
+  <!-- Redes Sociais -->
   <a href="https://www.linkedin.com/in/alice-xavier-44765320a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7A2E43?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:alice14072005@gmail.com">
     <img src="https://img.shields.io/badge/Email-21171D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://github.com/AlicextDev">
+  <a href="https://github.com/AlicextDev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 
@@ -128,20 +126,16 @@
   <br/><br/>
 
   <h3>📈 Gráfico de Atividades</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlicextDev&bg_color=21171D&color=7A2E43&line=7A2E43&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/api?username=AlicextDev&bg_color=21171D&color=7A2E43&line=7A2E43&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## ─── 🐍 Snake Contribution Map
+## ─── 🐍 Mapa de Contribuição da Cobra
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlicextDev/AlicextDev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlicextDev/AlicextDev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlicextDev/AlicextDev/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/AlicextDev/AlicextDev/output/github-contribution-grid-snake-dark.svg" alt="Animação da Cobra" width="100%" />
 </div>
 
 ---
