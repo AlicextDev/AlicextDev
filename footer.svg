@@ -1,0 +1,7 @@
+<svg viewBox="0 0 900 56" width="900" height="56" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .ft-mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 14px; fill: #D9A5B3; letter-spacing: 0.6px; }
+  </style>
+  <rect width="900" height="56" rx="10" fill="#21171D" />
+  <text x="450" y="33" text-anchor="middle" class="ft-mono">♥ um commit por vez.</text>
+</svg>

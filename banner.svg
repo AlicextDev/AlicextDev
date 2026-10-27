@@ -1,0 +1,100 @@
+<svg viewBox="0 0 900 240" width="900" height="240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="roundedBanner">
+      <rect width="900" height="240" rx="14" ry="14" />
+    </clipPath>
+    <clipPath id="typingClip">
+      <rect x="73" y="172" width="206" height="28">
+        <animate attributeName="width" values="0;206;206;0" keyTimes="0;0.35;0.85;1" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1; 0 0 1 1; 0.4 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <style>
+      .banner-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 46px; fill: #FFFFFF; letter-spacing: 5px; }
+      .banner-sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 20px; fill: #D9A5B3; }
+      .banner-mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 19px; fill: #D9A5B3; letter-spacing: 0.5px; }
+      @keyframes drawLine {
+        0% { stroke-dashoffset: 520; }
+        40%, 85% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: 520; }
+      }
+      @keyframes blinkCursor {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes pulseHeart {
+        0%, 100% { transform: scale(1); }
+        50% { transform: scale(1.14); }
+      }
+      @keyframes popDot1 {
+        0%, 18% { r: 0; opacity: 0; }
+        26%, 85% { r: 5.5; opacity: 1; }
+        100% { r: 0; opacity: 0; }
+      }
+      @keyframes popDot2 {
+        0%, 28% { r: 0; opacity: 0; }
+        36%, 85% { r: 5.5; opacity: 1; }
+        100% { r: 0; opacity: 0; }
+      }
+      @keyframes popDot3 {
+        0%, 36% { r: 0; opacity: 0; }
+        44%, 85% { r: 5.5; opacity: 1; }
+        100% { r: 0; opacity: 0; }
+      }
+      @keyframes pingRing {
+        0%, 35% { r: 5.5; opacity: 0; }
+        45% { r: 5.5; opacity: 0.75; }
+        75%, 100% { r: 16; opacity: 0; }
+      }
+      .chart-line {
+        stroke-dasharray: 520;
+        stroke-dashoffset: 0;
+        animation: drawLine 6s ease-in-out infinite;
+      }
+      .cursor-rect {
+        animation: blinkCursor 0.9s steps(1) infinite;
+      }
+      .heart-icon {
+        transform-origin: 51px 186px;
+        animation: pulseHeart 1.8s ease-in-out infinite;
+      }
+      .dot-1 { animation: popDot1 6s ease-out infinite; }
+      .dot-2 { animation: popDot2 6s ease-out infinite; }
+      .dot-3 { animation: popDot3 6s ease-out infinite; }
+      .dot-ping { animation: pingRing 3s ease-out infinite; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#roundedBanner)">
+    <!-- Dark Wine Left Background -->
+    <rect width="900" height="240" fill="#21171D" />
+
+    <!-- Diagonal Dusty Rose Right Background -->
+    <polygon points="570,0 900,0 900,240 480,240" fill="#D9A5B3" />
+
+    <!-- Title & Subtitle -->
+    <text x="45" y="102" class="banner-title">ALICE XAVIER</text>
+    <text x="45" y="142" class="banner-sub">Dados · Automação · Back-end</text>
+
+    <!-- Pulsing Heart Icon -->
+    <path class="heart-icon" d="M51 196 C51 196 41 188.5 41 181.5 C41 177.5 44.2 174.5 47.8 174.5 C49.6 174.5 51 175.8 51 177.3 C51 175.8 52.4 174.5 54.2 174.5 C57.8 174.5 61 177.5 61 181.5 C61 188.5 51 196 51 196 Z" fill="#F4DDE4" />
+
+    <!-- Typing Text "um commit por vez" -->
+    <g clip-path="url(#typingClip)">
+      <text x="73" y="192" class="banner-mono">um commit por vez</text>
+    </g>
+
+    <!-- Animated Cursor Block -->
+    <rect x="279" y="175" width="9" height="22" fill="#D9A5B3" class="cursor-rect">
+      <animate attributeName="x" values="73;279;279;73" keyTimes="0;0.35;0.85;1" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1; 0 0 1 1; 0.4 0 0.2 1" />
+    </rect>
+
+    <!-- Animated Ascending Line Chart on Right Panel -->
+    <polyline class="chart-line" points="562,198 612,179 655,187 705,148 755,160 805,112 850,124 885,68" fill="none" stroke="#21171D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Data Nodes on Chart -->
+    <circle cx="705" cy="148" r="5.5" fill="#7A2E43" class="dot-1" />
+    <circle cx="805" cy="112" r="5.5" fill="#7A2E43" class="dot-2" />
+    <circle cx="885" cy="68" r="5.5" fill="#7A2E43" class="dot-3" />
+    <circle cx="885" cy="68" r="5.5" fill="none" stroke="#7A2E43" stroke-width="2" class="dot-ping" />
+  </g>
+</svg>
