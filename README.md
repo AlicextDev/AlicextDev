@@ -13,7 +13,6 @@
 - 🎓 Graduanda em Ciência da Computação pela Universidade Católica de Brasília (UCB).
 - 💼 Estagiária de Desenvolvimento de Software.
 - 🛠️ Experiência em análise de dados (Python, Pandas, SQL), automação de processos (RPA e ServiceNow), integração de APIs REST e desenvolvimento web.
-- 💻 Gosto de tecnologia desde criança, e foi um projeto de score de crédito que me levou para dados.
 - 🚀 Foco em criar soluções funcionais, otimizadas e aplicadas a problemas reais.
 
 <img src="divider.svg" alt="" width="100%" />
