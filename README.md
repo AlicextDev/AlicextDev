@@ -17,9 +17,6 @@
   <a href="mailto:alice14072005@gmail.com">
     <img src="https://img.shields.io/badge/Email-21171D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://github.com/AlicextDev">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
 
 </div>
 
@@ -111,35 +108,6 @@
 
 ---
 
-## ─── 🏆 Conquistas no GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=AlicextDev&theme=dracula&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</div>
-
----
-
-## ─── 📊 Estatísticas & Atividade
-
-<div align="center">
-
-  <a href="https://github.com/AlicextDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlicextDev&show_icons=true&theme=synthwave&title_color=7A2E43&icon_color=7A2E43&text_color=ffffff&bg_color=21171D&hide_border=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicextDev&layout=compact&theme=synthwave&title_color=7A2E43&icon_color=7A2E43&text_color=ffffff&bg_color=21171D&hide_border=true" alt="Top Languages" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/AlicextDev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlicextDev&theme=dark&background=21171D&stroke=7A2E43&fire=7A2E43&ring=7A2E43&sidenums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-  </a>
-
-  <br/><br/>
-
-</div>
-
----
-
 ## ─── 🐍 Snake Contribution Map
 
 <div align="center">
@@ -155,7 +123,7 @@
 <div align="center">
 
   <br/>
-  <p><i>"Um commit por vez ✱ Desenvolvimento ✱ Dados ✱ Automação"</i></p>
+  <p><i> ✱ Um commit por vez ✱ </i></p>
   <p>Desenvolvido com 💜 por <b>Alice Xavier</b> • 2026</p>
 
 </div>
