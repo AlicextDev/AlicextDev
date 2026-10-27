@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alice-xavier-44765320a/"><img src="https://img.shields.io/badge/LinkedIn-Alice_Xavier-7A2E43?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Alice Xavier" /></a>
-  <a href="mailto:alice14072005@gmail.com"><img src="https://img.shields.io/badge/Email-alice14072005%40gmail.com-D9A5B3?style=for-the-badge&logo=gmail&logoColor=21171D" alt="E-mail de Alice Xavier" /></a>
+  <a href="https://www.linkedin.com/in/alice-xavier-44765320a/"><img src="https://img.shields.io/badge/LinkedIn-7A2E43?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Alice Xavier" /></a>
+  <a href="mailto:alice14072005@gmail.com"><img src="https://img.shields.io/badge/Email-D9A5B3?style=for-the-badge&logo=gmail&logoColor=21171D" alt="E-mail de Alice Xavier" /></a>
 </div>
 
 <img src="divider.svg" alt="" width="100%" />
