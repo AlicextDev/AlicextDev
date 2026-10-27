@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Alice Xavier — Dados, Automação e Back-end. Um commit por vez." width="100%" />
+  <img src="banner.svg" alt="Alice Xavier — Dados, Automação e Back-end. Um commit por vez." width="100%" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
   <a href="https://github.com/AlicextDev"><img src="https://img.shields.io/badge/GitHub-AlicextDev-D9A5B3?style=for-the-badge&logo=github&logoColor=21171D" alt="GitHub de Alice Xavier" /></a>
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 ### 🎓 Sobre mim
 - 🎓 Graduanda em Ciência da Computação pela Universidade Católica de Brasília (UCB).
@@ -16,7 +16,7 @@
 - 💻 Gosto de tecnologia desde criança, e foi um projeto de score de crédito que me levou para dados.
 - 🚀 Foco em criar soluções funcionais, otimizadas e aplicadas a problemas reais.
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 ### 🛠️ Tecnologias e ferramentas
 
@@ -61,13 +61,13 @@
 <img src="https://img.shields.io/badge/Wireshark-D9A5B3?style=flat-square&logo=wireshark&logoColor=21171D" alt="Wireshark" />
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 ### 🚀 Projetos
 
 <div align="center">
   <a href="https://github.com/AlicextDev/Python-Insights-Analisando-Dados-com-Python">
-    <img src="assets/card-churn.svg" alt="Análise de churn (Dados): diagnóstico de uma taxa de cancelamento de 56%, com plano de ação para chegar a 18%. Python, Jupyter e dashboards." width="100%" />
+    <img src="card-churn.svg" alt="Análise de churn (Dados): diagnóstico de uma taxa de cancelamento de 56%, com plano de ação para chegar a 18%. Python, Jupyter e dashboards." width="100%" />
   </a>
 </div>
 
@@ -75,30 +75,30 @@
   <tr>
     <td>
       <a href="https://github.com/AlicextDev/Python-IA-Intelig-ncia-Artificial-e-Previs-es">
-        <img src="assets/card-score.svg" alt="Score de crédito (Dados): compara RandomForest e KNN para classificar clientes novos. Python e Machine Learning." width="410" />
+        <img src="card-score.svg" alt="Score de crédito (Dados): compara RandomForest e KNN para classificar clientes novos. Python e Machine Learning." width="410" />
       </a>
     </td>
     <td>
       <a href="https://github.com/AlicextDev/Automa-o-An-lise-de-Dados">
-        <img src="assets/card-relatorios.svg" alt="Relatórios diários (Automação): processa planilhas Excel e dispara o e-mail com os resultados do dia. Python, Pandas e PyAutoGUI." width="410" />
+        <img src="card-relatorios.svg" alt="Relatórios diários (Automação): processa planilhas Excel e dispara o e-mail com os resultados do dia. Python, Pandas e PyAutoGUI." width="410" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/AlicextDev/Python-Power-Up-Automa-o-de-Tarefas">
-        <img src="assets/card-cadastro.svg" alt="Cadastro de produtos (Automação): cadastra milhares de produtos em um sistema corporativo. Python e Pandas." width="410" />
+        <img src="card-cadastro.svg" alt="Cadastro de produtos (Automação): cadastra milhares de produtos em um sistema corporativo. Python e Pandas." width="410" />
       </a>
     </td>
     <td>
       <a href="https://github.com/AlicextDev/Fox-Study">
-        <img src="assets/card-fox-study.svg" alt="Fox-Study (Full stack): plataforma de estudos com Pomodoro, flashcards e gestão de matérias. HTML, CSS, JS, Node.js e SQL." width="410" />
+        <img src="card-fox-study.svg" alt="Fox-Study (Full stack): plataforma de estudos com Pomodoro, flashcards e gestão de matérias. HTML, CSS, JS, Node.js e SQL." width="410" />
       </a>
     </td>
   </tr>
 </table>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 ### 📈 Atividade
 
@@ -106,8 +106,8 @@
   <img src="https://raw.githubusercontent.com/AlicextDev/AlicextDev/output/github-snake.svg" alt="Cobra animada percorrendo o gráfico de contribuições do GitHub de Alice Xavier" width="100%" />
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
 <div align="center">
-  <img src="assets/footer.svg" alt="♥ um commit por vez." width="100%" />
+  <img src="footer.svg" alt="♥ um commit por vez." width="100%" />
 </div>
