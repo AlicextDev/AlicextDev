@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="banner.svg" alt="Alice Xavier — Dados, Automação e Back-end. Um commit por vez." width="100%" />
+  <img src="banner.svg" alt="Alice Xavier — Dados, Automação e Back-end." width="100%" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alice-xavier-44765320a/"><img src="https://img.shields.io/badge/LinkedIn-Alice_Xavier-7A2E43?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Alice Xavier" /></a>
-  <a href="https://github.com/AlicextDev"><img src="https://img.shields.io/badge/GitHub-AlicextDev-D9A5B3?style=for-the-badge&logo=github&logoColor=21171D" alt="GitHub de Alice Xavier" /></a>
+  <a href="mailto:alice14072005@gmail.com"><img src="https://img.shields.io/badge/Email-alice14072005%40gmail.com-D9A5B3?style=for-the-badge&logo=gmail&logoColor=21171D" alt="E-mail de Alice Xavier" /></a>
 </div>
 
 <img src="divider.svg" alt="" width="100%" />
@@ -103,7 +103,7 @@
 ### 📈 Atividade
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AlicextDev/AlicextDev/output/github-snake.svg" alt="Cobra animada percorrendo o gráfico de contribuições do GitHub de Alice Xavier" width="100%" />
+  <img src="github-snake.svg" alt="Cobra animada percorrendo o gráfico de contribuições do GitHub de Alice Xavier" width="100%" />
 </div>
 
 <img src="divider.svg" alt="" width="100%" />
