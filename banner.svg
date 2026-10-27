@@ -1,0 +1,66 @@
+<svg viewBox="0 0 900 220" width="900" height="220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="roundedBanner">
+      <rect width="900" height="220" rx="14" ry="14" />
+    </clipPath>
+    <style>
+      .banner-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 48px; fill: #FFFFFF; letter-spacing: 5px; }
+      .banner-sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 21px; fill: #D9A5B3; }
+      @keyframes drawLine {
+        0% { stroke-dashoffset: 520; }
+        40%, 85% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: 520; }
+      }
+      @keyframes popDot1 {
+        0%, 18% { r: 0; opacity: 0; }
+        26%, 85% { r: 5.5; opacity: 1; }
+        100% { r: 0; opacity: 0; }
+      }
+      @keyframes popDot2 {
+        0%, 28% { r: 0; opacity: 0; }
+        36%, 85% { r: 5.5; opacity: 1; }
+        100% { r: 0; opacity: 0; }
+      }
+      @keyframes popDot3 {
+        0%, 36% { r: 0; opacity: 0; }
+        44%, 85% { r: 5.5; opacity: 1; }
+        100% { r: 0; opacity: 0; }
+      }
+      @keyframes pingRing {
+        0%, 35% { r: 5.5; opacity: 0; }
+        45% { r: 5.5; opacity: 0.75; }
+        75%, 100% { r: 16; opacity: 0; }
+      }
+      .chart-line {
+        stroke-dasharray: 520;
+        stroke-dashoffset: 0;
+        animation: drawLine 6s ease-in-out infinite;
+      }
+      .dot-1 { animation: popDot1 6s ease-out infinite; }
+      .dot-2 { animation: popDot2 6s ease-out infinite; }
+      .dot-3 { animation: popDot3 6s ease-out infinite; }
+      .dot-ping { animation: pingRing 3s ease-out infinite; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#roundedBanner)">
+    <!-- Dark Wine Left Background -->
+    <rect width="900" height="220" fill="#21171D" />
+
+    <!-- Diagonal Dusty Rose Right Background -->
+    <polygon points="570,0 900,0 900,220 480,220" fill="#D9A5B3" />
+
+    <!-- Vertically Centered Title & Subtitle -->
+    <text x="48" y="106" class="banner-title">ALICE XAVIER</text>
+    <text x="48" y="148" class="banner-sub">Dados · Automação · Back-end</text>
+
+    <!-- Animated Ascending Line Chart on Right Panel -->
+    <polyline class="chart-line" points="562,184 612,165 655,173 705,134 755,146 805,98 850,110 885,54" fill="none" stroke="#21171D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Data Nodes on Chart -->
+    <circle cx="705" cy="134" r="5.5" fill="#7A2E43" class="dot-1" />
+    <circle cx="805" cy="98" r="5.5" fill="#7A2E43" class="dot-2" />
+    <circle cx="885" cy="54" r="5.5" fill="#7A2E43" class="dot-3" />
+    <circle cx="885" cy="54" r="5.5" fill="none" stroke="#7A2E43" stroke-width="2" class="dot-ping" />
+  </g>
+</svg>
