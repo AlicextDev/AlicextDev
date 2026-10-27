@@ -124,6 +124,6 @@
 
   <br/>
   <p><i> ✱ Um commit por vez ✱ </i></p>
-  <p>Desenvolvido com 💜 por <b>Alice Xavier</b> • 2026</p>
+  <p>Desenvolvido por <b>Alice Xavier</b> • 2026</p>
 
 </div>
