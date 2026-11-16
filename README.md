@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="Alice Xavier — Engenharia de Software, Back-end e Dados." width="100%" />
+  <img src="banner.svg" alt="Alice Xavier — Engenharia de Software, Back-end e Dados." width="100%" />
 </div>
 
 <div align="center">
